@@ -1,7 +1,7 @@
 
 {
 
-    "name": "MG",
+    "name": "VASUDEV",
 
     "description": "A Modular telegram bot.",
 
@@ -31,19 +31,19 @@
 
         "BOT_TOKEN": {
 
-            "description": "7053921138:AAGoQZh2x00uTuufuzqEqDYO7YlWQa7KmF8"
+            "description": "8434541874:AAGaXXEdi_wkJTJNelVD5ktibt95fTT6RJg"
 
         },
 
         "API_ID": {
 
-            "description": "27498866"
+            "description": "27297131"
 
         },
 
         "API_HASH": {
 
-            "description": "96fbb6ad2e11ab04e83ca09ef3f42455"
+            "description": "9fdd19cc4433056a425c9a042ffe8ba0"
 
         }
 
